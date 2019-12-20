@@ -1,3 +1,6 @@
+# local matter
+local.settings.json
+
 # Logs
 logs
 *.log
