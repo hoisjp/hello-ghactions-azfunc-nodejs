@@ -13,4 +13,4 @@ sample code for Azure Functions x GitHub Actions
 - https://github.com/Azure/actions-workflow-samples/tree/master/FunctionApp
 
 ### Explanation in Japanese
-- Qiita link
+- [Qiita: Azure Functions をデプロイする GitHub Actions の仕組みを理解する](https://qiita.com/hoisjp/items/5a8b5c3d5c7e67d169bf)
